@@ -1,0 +1,8 @@
+README.md
+setup.py
+FAverageProgressBar/__init__.py
+FAverageProgressBar/progress.py
+FAverageProgressBar.egg-info/PKG-INFO
+FAverageProgressBar.egg-info/SOURCES.txt
+FAverageProgressBar.egg-info/dependency_links.txt
+FAverageProgressBar.egg-info/top_level.txt

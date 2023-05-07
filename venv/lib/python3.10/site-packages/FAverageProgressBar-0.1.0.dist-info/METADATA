@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: FAverageProgressBar
+Version: 0.1.0
+Summary: Librarification of a fairly average progress bar used to track and predict runtimes for Python loops, and displaying that information on a single line(s) in console accompanying a unicode-stylized progress indicator
+Home-page: UNKNOWN
+Author: fairlyaverage
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+

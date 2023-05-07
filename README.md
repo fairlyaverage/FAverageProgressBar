@@ -17,6 +17,7 @@ Many similar and more comprehensive libraries surely exist. This is primarily an
 - Console window must be at minimum x characters wide for output to display correctly and rewrite lines as intended
 - line_clear() is not properly set up, conflicts with any output printed in loop
 - average loop time is not an average, but shows time delta for just the last loop
+- ~99% bug
 
 ## Author:
 @fairlyaverage
